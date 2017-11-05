@@ -20,8 +20,3 @@ def test_response_404():
 def test_response_500():
     assert Status_Check.get_status('http://httpstat.us/500') == 500
 
-def test_response_524():
-    assert Status_Check.get_status('http://httpstat.us/524') == 524
-
-def test_url_retrieve():
-    assert Status_Check.read_urls(os.getcwd()/src + '/urls_test.txt') == ['http://httpstat.us/200','http://httpstat.us/201','http://httpstat.us/305','http://httpstat.us/403','http://httpstat.us/404','http://httpstat.us/500','http://httpstat.us/524']
