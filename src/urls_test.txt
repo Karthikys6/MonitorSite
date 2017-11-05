@@ -1,7 +1,3 @@
-http://httpstat.us/200
-http://httpstat.us/201
-http://httpstat.us/305
-http://httpstat.us/403
-http://httpstat.us/404
-http://httpstat.us/500
-http://httpstat.us/524
+http://google.com
+http://apple.com
+http://microsoft.com
