@@ -1,5 +1,7 @@
 # Status Check App
 
+<img src='https://bettercodehub.com/edge/badge/Karthikys6/StatusCheck?branch=master'>
+
 ### Pre-requisites
  install Python 3
  
