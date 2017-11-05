@@ -1,5 +1,6 @@
 import requests
 import argparse
+import sys
 import time
 
 def read_urls(path):
